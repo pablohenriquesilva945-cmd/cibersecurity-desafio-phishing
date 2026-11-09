@@ -17,5 +17,6 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+ <img width="590" height="196" alt="image" src="https://github.com/user-attachments/assets/3acea593-bd18-49c4-9f38-9be415a21a16" />
 
-![Alt text](./passwd.png "Optional title")
+Professor retirei a imagem pois hoe em 09/11/2026 não esta dando mais para acessar o link do facebook esta bugado mesmo conectado a intenet
